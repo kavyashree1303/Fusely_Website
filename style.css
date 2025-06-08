@@ -315,6 +315,7 @@ main {
 
 #blog {
     background: var(--bg-light);
+    padding-bottom: 140px; /* Increased bottom padding for mobile */
 }
 
 .blog-header {
@@ -490,7 +491,7 @@ footer {
     }
     
     #blog {
-        padding-bottom: 200px;
+        padding-bottom: 280px; /* Increased bottom padding for desktop */
     }
 
     .blog-posts {
